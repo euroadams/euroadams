@@ -1,17 +1,16 @@
-Hello there ![](https://user-images.githubusercontent.com/18350557/
-176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is Adiagwai Godswill
 =====================================
 
 * 🌍  I hail from Nigeria 
 * 🖥️  I'm a tech enthusiast and dedicated professional striving to make the world a better place through the creation of software and applications that help solve real-world problems.
 * ✉️  You can contact me at [adiagwaigodswill@gmail.com](mailto:adiagwaigodswill@gmail.com)
-* 🧠  continually learning and re-learning new technologies in my chosen field to help meet the ever growing needs of the tech industries.
+* 🧠  I'm continually in the business of learning and re-learning new technologies in my chosen field to help meet the ever growing needs of the tech industries.
 * 🤝  I'm open to collaborating on projects within my skill sets
 * ⚡  I enjoy coding and love building tech gadgets as well using embedded system designs and programming
 
 ### Background Summary
-Results-driven web developer with over 5 years of experience in designing, developing, and maintaining responsive and scalable web applications that drive functionality and deliver a seamless user experience. 
+I'm a result-driven web developer with over 5 years of experience in designing, developing, and maintaining responsive and scalable web applications that drive functionality and deliver a seamless user experience. 
 
 Proficient in front-end and back-end technologies, with a strong command of PHP, MySQL, and JavaScript.
 Skilled in database design, performance tuning, and web security. Strong collaboration, problem-solving, and communication skills, with a deep commitment to producing clean and efficient code and a strong passion for staying up-to-date with the latest web development trends and technologies.
@@ -86,15 +85,15 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-    <a href="https://github.com/euroadams/kranook" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=kranook&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>    
-    <a href="https://github.com/euroadams/ads-management-system" align="right">
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=ads-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-    <a href="https://github.com/euroadams/provident-funds" align="right">
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=provident-funds&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
+<a href="https://github.com/euroadams/kranook" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=kranook&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>    
+<a href="https://github.com/euroadams/ads-management-system" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=ads-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+<a href="https://github.com/euroadams/provident-funds" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=provident-funds&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 
