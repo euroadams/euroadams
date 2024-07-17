@@ -47,7 +47,8 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 <a href="https://github.com/euroadams/ads-management-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=ads-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/euroadams/provident-funds" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=provident-funds&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<p style="clear: both;">
+<p style="clear: both;"><br/><br/><br/><br/></p>
+<p>
 I welcome you to explore my repositories and projects, where I apply my ever advancing skills in solving real-world problems. Feel free to connect with me to discuss any related challenges, share ideas, or explore potential collaborations on interesting projects. Looking forward to engaging with you.
 </p>
 
