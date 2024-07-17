@@ -49,29 +49,29 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 
 ### Work Galleries
 
-<div style="display: run-in;">
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-3.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-4.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-5.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-bk-fp.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-bk-post.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/paystack.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/flutterwave.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/monnify.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf3.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf4.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf5.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf6.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pms.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/banner-ad-1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/banner-ad-2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/banner-ad-3.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/text-ad-1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
-<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/text-ad-2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div style="display: flex;">
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-3.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-4.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-5.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-bk-fp.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-bk-post.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/paystack.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/flutterwave.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/monnify.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf3.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf4.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf5.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf6.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pms.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/banner-ad-1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/banner-ad-2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/banner-ad-3.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/text-ad-1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
+<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/text-ad-2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
 </div>
 
 ### Support Me
