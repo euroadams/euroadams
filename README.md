@@ -50,15 +50,15 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 ### Work Samples
 ============================
 <div width="100%" align="center" style="display:grid;">
-<img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-1.jpg" width="200" height="200" alt="work sample image" />
-<img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-2.jpg" width="200" height="200" alt="work sample image" />
-![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-1.jpg)
-![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-2.jpg)
-![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-3.jpg)
-![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-4.jpg)
-![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-5.jpg)
-![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-bk-fp.jpg)
-![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-bk-post.jpg)
+<img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-1.jpg" width="200" height="200" alt="work sample image" />
+<img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-2.jpg" width="200" height="200" alt="work sample image" />
+![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-1.jpg)
+![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-2.jpg)
+![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-3.jpg)
+![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-4.jpg)
+![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-5.jpg)
+![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-bk-fp.jpg)
+![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-bk-post.jpg)
 </div>
 
 ### Support Me
