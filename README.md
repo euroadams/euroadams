@@ -1,5 +1,5 @@
 Hello there ![hand wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Adiagwai Godswill
+My name is Godswill Adiagwai
 ==========================================
 
 * 🌍  I hail from Nigeria 
@@ -33,6 +33,7 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 ### Languages 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=euroadams&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!--
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -41,12 +42,42 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 
 <a href="http://www.github.com/euroadams"><img src="https://github-readme-streak-stats.herokuapp.com/?user=euroadams&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/euroadams/kranook" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=kranook&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/euroadams/ads-management-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=ads-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/euroadams/provident-funds" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=provident-funds&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br/><br/><br/><br/><br/>
 
+
+### Work Gallerires
+
+<div style="display: flex;">
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-3.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-4.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-5.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-bk-fp.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-bk-post.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/paystack.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/flutterwave.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/monnify.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf3.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf4.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf5.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf6.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pms.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/banner-ad-1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/banner-ad-2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/banner-ad-3.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/text-ad-1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+<div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/text-ad-2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
+</div>
+
+-->
 
 I welcome you to explore my repositories and projects, where I apply my ever advancing skills in solving real-world problems. Feel free to connect with me to discuss any related challenges, share ideas, or explore potential collaborations on interesting projects. Looking forward to engaging with you.
 
@@ -57,7 +88,7 @@ I welcome you to explore my repositories and projects, where I apply my ever adv
 <a href="https://www.buymeacoffee.com/euroadams"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
-<!---
+<!--
 euroadams/euroadams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
