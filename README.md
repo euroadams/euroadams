@@ -1,4 +1,4 @@
-Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello there ![hand wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is Adiagwai Godswill
 =====================================
 
@@ -48,8 +48,10 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 
 
 ### Work Samples
-=============================
-
+============================
+<div width="100%" align="center" style="display:grid;">
+<img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-1.jpg" width="200" height="200" alt="work sample image" />
+<img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-2.jpg" width="200" height="200" alt="work sample image" />
 ![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-1.jpg)
 ![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-2.jpg)
 ![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-3.jpg)
@@ -57,8 +59,7 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 ![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-5.jpg)
 ![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-bk-fp.jpg)
 ![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-bk-post.jpg)
-
-
+</div>
 
 ### Support Me
 
