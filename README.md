@@ -43,14 +43,17 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/euroadams/kranook" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=kranook&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/euroadams/ads-management-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=ads-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/euroadams/provident-funds" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=provident-funds&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/euroadams/kranook" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=kranook&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/euroadams/ads-management-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=ads-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/euroadams/provident-funds" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=provident-funds&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<p>
+I welcome you to explore my repositories and projects, where I apply my ever advancing skills in solving real-world problems. Feel free to connect with me to discuss any related challenges, share ideas, or explore potential collaborations on interesting projects. Looking forward to engaging with you.
+</p>
 
 
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/euroadams"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-I welcome you to explore my repositories and projects, where I apply my ever advancing skills in solving real-world problems. Feel free to connect with me to discuss any related challenges, share ideas, or explore potential collaborations on interesting projects. Looking forward to engaging with you.
 
 <!---
 euroadams/euroadams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
