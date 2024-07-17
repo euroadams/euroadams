@@ -50,13 +50,13 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 ### Work Samples
 =============================
 
-![work sample image](https://github.com/euroadams/euroadams.git/assets/readme/cf-fp-1.jpg)
-![work sample image](https://github.com/euroadams/euroadams.git/assets/readme/cf-fp-2.jpg)
-![work sample image](https://github.com/euroadams/euroadams.git/assets/readme/cf-fp-3.jpg)
-![work sample image](https://github.com/euroadams/euroadams.git/assets/readme/cf-fp-4.jpg)
-![work sample image](https://github.com/euroadams/euroadams.git/assets/readme/cf-fp-5.jpg)
-![work sample image](https://github.com/euroadams/euroadams.git/assets/readme/cf-bk-fp.jpg)
-![work sample image](https://github.com/euroadams/euroadams.git/assets/readme/cf-bk-post.jpg)
+![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-1.jpg)
+![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-2.jpg)
+![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-3.jpg)
+![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-4.jpg)
+![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-fp-5.jpg)
+![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-bk-fp.jpg)
+![work sample image](https://raw.githubusercontent.com/euroadams/euroadams/master/assets/readme/cf-bk-post.jpg)
 
 
 
