@@ -46,18 +46,19 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 <div width="100%" align="center"><a href="https://github.com/euroadams/kranook" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=kranook&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/euroadams/ads-management-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=ads-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/euroadams/provident-funds" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=provident-funds&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
-===================================================
+
 ### Work Samples
+=============================
 
-![work sample image](https://github.com/euroadams/euroadams/assets/readme/cf-fp-1.jpg)
-![work sample image](https://github.com/euroadams/euroadams/assets/readme/cf-fp-2.jpg)
-![work sample image](https://github.com/euroadams/euroadams/assets/readme/cf-fp-3.jpg)
-![work sample image](https://github.com/euroadams/euroadams/assets/readme/cf-fp-4.jpg)
-![work sample image](https://github.com/euroadams/euroadams/assets/readme/cf-fp-5.jpg)
-![work sample image](https://github.com/euroadams/euroadams/assets/readme/cf-bk-fp.jpg)
-![work sample image](https://github.com/euroadams/euroadams/assets/readme/cf-bk-post.jpg)
+![work sample image](https://github.com/euroadams/euroadams.git/assets/readme/cf-fp-1.jpg)
+![work sample image](https://github.com/euroadams/euroadams.git/assets/readme/cf-fp-2.jpg)
+![work sample image](https://github.com/euroadams/euroadams.git/assets/readme/cf-fp-3.jpg)
+![work sample image](https://github.com/euroadams/euroadams.git/assets/readme/cf-fp-4.jpg)
+![work sample image](https://github.com/euroadams/euroadams.git/assets/readme/cf-fp-5.jpg)
+![work sample image](https://github.com/euroadams/euroadams.git/assets/readme/cf-bk-fp.jpg)
+![work sample image](https://github.com/euroadams/euroadams.git/assets/readme/cf-bk-post.jpg)
 
-=====================================================
+
 
 ### Support Me
 
