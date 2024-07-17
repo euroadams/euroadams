@@ -1,6 +1,6 @@
 Hello there ![hand wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is Adiagwai Godswill
-=====================================
+==========================================
 
 * 🌍  I hail from Nigeria 
 * 🖥️  I'm a tech enthusiast and dedicated professional striving to make the world a better place through the creation of software and applications that help solve real-world problems.
@@ -47,9 +47,9 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 
 
 
-### Work Samples
-=====================================
-<div style="display: flex;">
+### Work Galleries
+
+<div style="display: run-in;">
 <div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
 <div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
 <div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-3.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
