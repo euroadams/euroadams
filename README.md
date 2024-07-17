@@ -46,34 +46,6 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 <div width="100%" align="center"><a href="https://github.com/euroadams/kranook" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=kranook&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/euroadams/ads-management-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=ads-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/euroadams/provident-funds" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=provident-funds&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
-
-### Work Galleries
-
-<div style="display: flex;">
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-3.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-4.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-fp-5.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-bk-fp.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/cf-bk-post.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/paystack.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/flutterwave.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/monnify.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf3.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf4.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf5.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pf6.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/pms.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/banner-ad-1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/banner-ad-2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/banner-ad-3.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/text-ad-1.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-<span><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/text-ad-2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></span>
-</div>
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/euroadams"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
