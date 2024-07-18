@@ -103,7 +103,7 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 ### :open_hands: Support Me :
 
 <a href="https://www.buymeacoffee.com/euroadams"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
+--
 ### :hugs: For You :
 I welcome you to explore my repositories and projects, where I apply my ever advancing skills in solving real-world problems. Feel free to connect with me to discuss any related challenges, share ideas, or explore potential collaborations on interesting projects. Looking forward to engaging with you.
 
