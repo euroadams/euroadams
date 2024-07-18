@@ -38,11 +38,11 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>&nbsp;
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euroadams&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="my top languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euroadams&show_icons=true&locale=en&layout=compact" alt="my top languages" /></p>
 &nbsp;
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=euroadams&locale=en&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="my github stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=euroadams&locale=en&show_icons=true" alt="my github stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=euroadams&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="my streaks" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=euroadams" alt="my streaks" /></p>
 
 ---
 
