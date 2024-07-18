@@ -1,15 +1,22 @@
 Hello there ![hand wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Godswill Adiagwai
 ==========================================
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="profile header image" />
+</div>
 
-* 🌍  I hail from Nigeria 
-* 🖥️  I'm a tech enthusiast and dedicated professional striving to make the world a better place through the creation of software and applications that help solve real-world problems.
+### :man_technologist: About Me :
+- :name_badge: My name is <b>Godswill Adiagwai</b>.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer.
+* 🌍 I hail from Nigeria.
+* 🖥️ I am a tech enthusiast and dedicated professional striving to make the world a better place through the creation of software and applications that help solve real-world problems.
 * ✉️  You can contact me at [adiagwaigodswill@gmail.com](mailto:adiagwaigodswill@gmail.com)
 * 🧠  I'm continually in the business of learning and re-learning new technologies in my chosen field to help meet the ever growing needs of the tech industries.
 * 🤝  I'm open to collaborating on projects within my skill sets
 * ⚡  I enjoy coding and love building tech gadgets as well using embedded system designs and programming
-
-### Background Summary
+  
+  
+--
+### Background Summary :
 I'm a result-driven web developer with over 5 years of experience in designing, developing, and maintaining responsive and scalable web applications that drive functionality and deliver a seamless user experience. 
 
 Proficient in front-end and back-end technologies, with a strong command of PHP, MySQL, and JavaScript.
@@ -30,25 +37,30 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 
 <p align="left"><a href="https://www.github.com/euroadams" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/godswill-adiagwai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@euroadams" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/euroadams" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Languages 
+---
+
+### :hammer_and_wrench: Languages and Tools :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=euroadams&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--
-### Badges
 
-<b>My GitHub Stats</b>
+---
 
+### :fire: Badges :
+
+#### My Stats
 <a href="http://www.github.com/euroadams"><img src="https://github-readme-stats.vercel.app/api?username=euroadams&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Euroadams's GitHub stats" /></a>
-
 <a href="http://www.github.com/euroadams"><img src="https://github-readme-streak-stats.herokuapp.com/?user=euroadams&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euroadams&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/euroadams/kranook" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=kranook&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/euroadams/ads-management-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=ads-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/euroadams/provident-funds" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=provident-funds&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br/><br/><br/><br/><br/>
 
+---
 
 ### Work Gallerires
 
@@ -78,6 +90,13 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 </div>
 
 -->
+
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 I welcome you to explore my repositories and projects, where I apply my ever advancing skills in solving real-world problems. Feel free to connect with me to discuss any related challenges, share ideas, or explore potential collaborations on interesting projects. Looking forward to engaging with you.
 
