@@ -1,20 +1,19 @@
 Hello there ![hand wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+==========================================
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="profile header image" />
 </div>
 
 ### :man_technologist: About Me :
-- :name_badge: My name is <b>Godswill Adiagwai</b>.
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer.
+* :name_badge: My name is <b>Godswill Adiagwai</b>.
+* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer.
 * 🌍 I hail from Nigeria.
 * 🖥️ I am a tech enthusiast and dedicated professional striving to make the world a better place through the creation of software and applications that help solve real-world problems.
 * ✉️  You can contact me at [adiagwaigodswill@gmail.com](mailto:adiagwaigodswill@gmail.com)
 * 🧠  I'm continually in the business of learning and re-learning new technologies in my chosen field to help meet the ever growing needs of the tech industries.
 * 🤝  I'm open to collaborating on projects within my skill sets
 * ⚡  I enjoy coding and love building tech gadgets as well using embedded system designs and programming
-  
-  
---
+
 ### Background Summary :
 I'm a result-driven web developer with over 5 years of experience in designing, developing, and maintaining responsive and scalable web applications that drive functionality and deliver a seamless user experience. 
 
@@ -26,22 +25,28 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 
 <a href="https://www.github.com/euroadams" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/euroadams?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/euroadams" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/euroadams?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
-### Skills
+---
 
+### :hammer_and_wrench: Languages and Tools :
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</p>
 
+<!--
 <p align="left"><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="PostgreSQL" /></a></p>
-
+-->
 
 ### Socials
 
 <p align="left"><a href="https://www.github.com/euroadams" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/godswill-adiagwai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@euroadams" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/euroadams" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
----
-
-### :hammer_and_wrench: Languages and Tools :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=euroadams&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+<!--
 ---
 
 ### :fire: Badges :
@@ -52,7 +57,6 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euroadams&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/euroadams/kranook" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=euroadams&repo=kranook&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
