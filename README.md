@@ -1,5 +1,5 @@
 Hello there ![hand wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-==========================================
+===
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="profile header image" />
 </div>
@@ -92,23 +92,19 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 <div><img src="https://raw.githubusercontent.com/euroadams/euroadams/master/assets/public/work-samples/text-ad-2.jpg" alt="work sample image" style="max-width: 100%; height: auto;" /></div>
 </div>
 
--->
-
 ---
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+-->
 
-
-I welcome you to explore my repositories and projects, where I apply my ever advancing skills in solving real-world problems. Feel free to connect with me to discuss any related challenges, share ideas, or explore potential collaborations on interesting projects. Looking forward to engaging with you.
-
-
-
-### Support Me
+### Support Me :
 
 <a href="https://www.buymeacoffee.com/euroadams"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
+### For You :
+I welcome you to explore my repositories and projects, where I apply my ever advancing skills in solving real-world problems. Feel free to connect with me to discuss any related challenges, share ideas, or explore potential collaborations on interesting projects. Looking forward to engaging with you.
 
 <!--
 euroadams/euroadams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
