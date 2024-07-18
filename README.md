@@ -7,14 +7,14 @@ Hello there ![hand wave](https://user-images.githubusercontent.com/18350557/1763
 ### :man_technologist: About Me :
 * :name_badge: My name is <b>Godswill Adiagwai</b>.
 * <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer.
-* 🌍 I hail from Nigeria and open to Hybrid/Remote works.
-* 🖥️ I am a tech enthusiast and dedicated professional striving to make the world a better place through the creation of software and applications that help solve real-world problems.
-* ✉️  You can contact me at [adiagwaigodswill@gmail.com](mailto:adiagwaigodswill@gmail.com)
-* 🧠  I'm continually in the business of learning and re-learning new technologies in my chosen field to help meet the ever growing needs of the tech industries.
-* 🤝  I'm open to collaborating on projects within my skill sets
-* ⚡  I enjoy coding and love building tech gadgets as well using embedded system designs and programming
+* :earth_africa: I hail from Nigeria and open to Hybrid/Remote works.
+* :desktop_computer: I am a tech enthusiast and dedicated professional striving to make the world a better place through the creation of software and applications that help solve real-world problems.
+* :envelope:  You can contact me at [adiagwaigodswill@gmail.com](mailto:adiagwaigodswill@gmail.com)
+* :brain:  I'm continually in the business of learning and re-learning new technologies in my chosen field to help meet the ever growing needs of the tech industries.
+* :handshake:  I'm open to collaborating on projects within my skill sets
+* :zap:  I enjoy coding and love building tech gadgets as well using embedded system designs and programming
 
-### Background Summary :
+### :scroll: Background Summary :
 I'm a result-driven web developer with over 5 years of experience in designing, developing, and maintaining responsive and scalable web applications that drive functionality and deliver a seamless user experience. 
 
 Proficient in front-end and back-end technologies, with a strong command of PHP, MySQL, and JavaScript.
@@ -100,7 +100,7 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 <!-- BLOG-POST-LIST:END -->
 
 
-### Support Me :
+### :open_hands: Support Me :
 
 <a href="https://www.buymeacoffee.com/euroadams"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
