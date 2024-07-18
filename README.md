@@ -99,7 +99,7 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
+---
 ### :open_hands: Support Me :
 
 <a href="https://www.buymeacoffee.com/euroadams"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
