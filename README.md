@@ -38,6 +38,11 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>&nbsp;
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euroadams&show_icons=true&locale=en&layout=compact" alt="my top languages" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=euroadams&show_icons=true&locale=en" alt="my github stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=euroadams&" alt="my streaks" /></p>
 ---
 
 ### :electric_plug: Socials :
