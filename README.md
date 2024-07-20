@@ -7,7 +7,7 @@ Hello there ![hand wave](https://user-images.githubusercontent.com/18350557/1763
 ### :man_technologist: About Me :
 * :name_badge: My name is <b>Godswill Adiagwai</b>.
 * <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer.
-* :earth_africa: I hail from Nigeria and open to Hybrid/Remote works.
+* :earth_africa: I hail from Nigeria and i am open to remote and hybrid works.
 * :desktop_computer: I am a tech enthusiast and dedicated professional striving to make the world a better place through the creation of software and applications that help solve real-world problems.
 * :envelope:  You can contact me at [adiagwaigodswill@gmail.com](mailto:adiagwaigodswill@gmail.com)
 * :brain:  I'm continually in the business of learning and re-learning new technologies in my chosen field to help meet the ever growing needs of the tech industries.
