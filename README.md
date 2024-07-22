@@ -12,7 +12,7 @@ Hello there ![hand wave](https://user-images.githubusercontent.com/18350557/1763
 * :envelope:  You can contact me at [adiagwaigodswill@gmail.com](mailto:adiagwaigodswill@gmail.com)
 * :brain:  I'm continually in the business of learning and re-learning new technologies in my chosen field to help meet the ever growing needs of the tech industries.
 * :handshake:  I'm open to collaborating on projects within my skill sets
-* :zap:  I enjoy coding and love building tech gadgets as well using embedded system designs and programming
+* :zap:  I enjoy coding and also love building embedded system gadgets
 
 ### :scroll: Background Summary :
 I'm a result-driven web developer with over 5 years of experience in designing, developing, and maintaining responsive and scalable web applications that drive functionality and deliver a seamless user experience. 
