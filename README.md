@@ -25,7 +25,7 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 
 <a href="https://www.github.com/euroadams" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/euroadams?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/euroadams" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/euroadams?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
----
+##
 
 ### :hammer_and_wrench: Languages and Tools :
 <p>
