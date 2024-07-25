@@ -45,7 +45,7 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=euroadams" alt="my streaks" /></p>
 
----
+##
 
 ### :electric_plug: Socials :
 
@@ -58,12 +58,12 @@ Looking for opportunities to put my abilities to use, contribute to innovative a
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
+##
 ### :open_hands: Support Me :
 
 <a href="https://www.buymeacoffee.com/euroadams"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
----
+##
 ### :hugs: For You :
 I welcome you to explore my repositories and projects, where I apply my ever advancing skills in solving real-world problems. Feel free to connect with me to discuss any related challenges, share ideas, or explore potential collaborations on interesting projects. Looking forward to engaging with you.
 
